@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td valign="top" width="70%">
+
 
 ## 💼 About Me 
 
@@ -13,10 +11,7 @@
 - 🤝 Love collaborating with creators, brands & communities  
 - 🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns  
 
-</td>
-<!-- Removed the image cell here -->
-</tr>
-</table>
+
 
 
 ## 🌐 Connect With Me
