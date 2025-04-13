@@ -1,21 +1,25 @@
-# 💫 About Me
-🎯 Aspiring Digital Marketer with a creative-tech background
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
-💻 Started in development & design, now pivoting into marketing strategy
+## 💼 About Me 
 
-🧠 Skilled in blending analytics + creativity to drive online growth
+- 🎯 Aspiring **Digital Marketer** with a creative-tech background  
+- 💻 Started in **development & design**, now pivoting into **marketing strategy**  
+- 🧠 Skilled in blending **analytics + creativity** to drive online growth  
+- 📱 Passionate about **social media, content creation**, and **audience engagement**  
+- 📊 Learning and applying **SEO, email marketing, branding, and ad strategy**  
+- 🎨 Strong eye for **visual storytelling** through design tools and motion graphics  
+- 🤝 Love collaborating with creators, brands & communities  
+- 🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns  
 
-📱 Passionate about social media, content creation, and audience engagement
+</td>
+<td width="30%">
+  <img src="https://github.com/SENTHURAN-LK/.ME/blob/main/ME.png?raw=true" width="100%" style="border-radius: 12px;">
+</td>
+  </tr>
+</table>
 
-📊 Learning and applying SEO, email marketing, branding, and ad strategy
-
-🎨 Strong eye for visual storytelling through design tools and motion graphics
-
-🤝 Love collaborating with creators, brands & communities
-
-🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns
-
----
 
 ## 🌐 Connect With Me
 
