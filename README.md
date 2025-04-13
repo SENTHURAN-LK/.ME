@@ -16,6 +16,7 @@
     </td>
     <td width="30%">
       <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif?cid=ecf05e47kh6sq6szhowzyu5t6hx3kc3w6uphn4ljqsz9fr9v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Designing GIF" width="100%" style="border-radius: 12px;">
+       <p align="center"><strong>btw, Btw I’m a Tony Stark fan <a href="https://emojis.com/emoji/ironman-aSyjTXhf1t" target="_blank"></a></strong></p>
     </td>
   </tr>
 </table>
