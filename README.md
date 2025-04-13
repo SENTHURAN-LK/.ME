@@ -1,10 +1,19 @@
 # 💫 About Me
-- 🔭 Working on creative-tech collabs  
-- 👯 Open to collaborate on dev & design projects  
-- 🤝 Looking to grow with a like-minded community  
-- 🌱 Currently learning: AI, React, Motion Design  
-- 💬 Ask me about: Code • Design • Creativity  
-- ⚡ Fun fact: I blend pixels, code, and caffeine ☕🎨
+🎯 Aspiring Digital Marketer with a creative-tech background
+
+💻 Started in development & design, now pivoting into marketing strategy
+
+🧠 Skilled in blending analytics + creativity to drive online growth
+
+📱 Passionate about social media, content creation, and audience engagement
+
+📊 Learning and applying SEO, email marketing, branding, and ad strategy
+
+🎨 Strong eye for visual storytelling through design tools and motion graphics
+
+🤝 Love collaborating with creators, brands & communities
+
+🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns
 
 ---
 
