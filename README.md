@@ -14,7 +14,8 @@
 - 🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns  
 
 </td>
-  </tr>
+<!-- Removed the image cell here -->
+</tr>
 </table>
 
 
