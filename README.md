@@ -15,7 +15,7 @@
 
     </td>
     <td width="30%">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl1azE4NDZzeW1veWNlMzFleTU5Y25qMThsaXg0ZDA1b2l6dGJybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o9ngTPVYW4qo8/giphy.gif" alt="Designing GIF" width="100%" style="border-radius: 12px;">
+      <img src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif?cid=ecf05e47kh6sq6szhowzyu5t6hx3kc3w6uphn4ljqsz9fr9v&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Designing GIF" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
 </table>
