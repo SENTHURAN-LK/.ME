@@ -65,8 +65,22 @@
 
 ## ✨ Extras
 
-**📜 Dev Quote**  
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+    **📜 Dev Quote**  
+    ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+    </td>
+    <td valign="top" width="50%">
+
+    **🎨 Designing GIF**  
+    <img src="YOUR_GIF_URL_HERE" alt="Designing GIF" width="100%" style="border-radius: 12px;">
+
+    </td>
+  </tr>
+</table>
 
 **🔥 Top Contributions**  
 ![](https://github-contributor-stats.vercel.app/api?username=SENTHURAN-LK&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -75,5 +89,8 @@
 [![](https://visitcount.itsvg.in/api?id=SENTHURAN-LK&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ---
+
+<!-- Designed with ❤️ using GPRM (https://gprm.itsvg.in) -->
+
 
 <!-- Designed with ❤️ using GPRM (https://gprm.itsvg.in) -->
