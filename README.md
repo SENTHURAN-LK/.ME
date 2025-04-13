@@ -14,9 +14,6 @@
 - 🚀 Eager to help businesses grow with data-driven, impactful marketing campaigns  
 
 </td>
-<td width="30%">
-  <img src="https://github.com/SENTHURAN-LK/.ME/blob/main/ME.png?raw=true" width="100%" style="border-radius: 12px;">
-</td>
   </tr>
 </table>
 
