@@ -15,7 +15,7 @@
 
     </td>
     <td width="30%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d2bjZ1czdyeDc0eWdzeG81YW56Y2VldXlpcWpwam53bzgxaDY3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kDSnoXA3t6BYtfr9M6/giphy.gif" alt="Designing GIF" width="100%" style="border-radius: 12px;">
+      <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47c1yvp9j5va1245t52t9n43mtdh2cj8pgglmnekoc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Designing GIF" width="100%" style="border-radius: 12px;">
        <p align="center"><strong> Btw, I’m a Tony Stark fan 🤣💥</strong></p>
     </td>
   </tr>
