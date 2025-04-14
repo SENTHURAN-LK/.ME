@@ -7,7 +7,7 @@
 - 🎯 Aspiring **Digital Marketer** with a creative-tech background  
 - 💻 Started in **development & design**, now pivoting into **marketing strategy**  
 - 🧠 Skilled in blending **analytics + creativity** to drive online growth  
-- 📱 Passionate about **social media, content creation**, and **audience engagement**  
+- 📱 Passionate about **social media, content creation**, andss **audience engagement**  
 - 📊 Learning and applying **SEO, email marketing, branding, and ad strategy**  
 - 🎨 Strong eye for **visual storytelling** through design tools and motion graphics  
 - 🤝 Love collaborating with creators, brands & communities  
@@ -15,7 +15,7 @@
 
     </td>
     <td width="30%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVyamg0ZmVmMmZ3Ym9jeDhhMGo0cHI4Mmo3cWgzYjNnaWtwZ3ZrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TI2u0IZsJhQebPdEVo/giphy.gif" alt="Designing GIF" width="100%" style="border-radius: 12px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVyamg0ZmVmMmZ3Ym9jeDhhMGo0cHI4Mmo3cWgzYjNnaWtwZ3ZrZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBsJwo17cbYvs8vqfx/giphy.gif" alt="Designing GIF" width="100%" style="border-radius: 12px;">
        <p align="center"><strong> Btw, I’m a Tony Stark fan 🤣💥</strong></p>
     </td>
   </tr>
